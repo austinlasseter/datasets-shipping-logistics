@@ -2,11 +2,11 @@
 A repository of public datasets related to shipping and delivery with emphasis on route optimization.
 
 ## Best Examples
-https://brunel.figshare.com/articles/dataset/Supply_Chain_Logistics_Problem_Dataset/7558679
-https://www.kaggle.com/datasets/apoorvwatsky/supply-chain-shipment-pricing-data
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-https://www.kaggle.com/datasets/skeller/us-supply-chain-information-for-covid19
-https://www.kaggle.com/datasets/vitaliymalcev/russian-passenger-air-service-20072020
+* https://brunel.figshare.com/articles/dataset/Supply_Chain_Logistics_Problem_Dataset/7558679
+* https://www.kaggle.com/datasets/apoorvwatsky/supply-chain-shipment-pricing-data
+* https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+* https://www.kaggle.com/datasets/skeller/us-supply-chain-information-for-covid19
+* https://www.kaggle.com/datasets/vitaliymalcev/russian-passenger-air-service-20072020
 
 # UPS API
 https://developer.ups.com
