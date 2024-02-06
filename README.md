@@ -33,6 +33,7 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * https://www.kaggle.com/datasets/vasudevmaduri/fedexdata
 * https://www.kaggle.com/datasets/pingpang/lastmiledeliverytimes
 * https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data
+* https://www.kaggle.com/competitions/nyc-taxi-trip-duration
 
 ## Other UPS datasets, articles about UPS data
 * https://shipscience.com/understanding-the-database-of-ups-worldship/
