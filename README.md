@@ -11,7 +11,6 @@ A repository of public datasets related to shipping and delivery with emphasis o
 ## The UPS API - a great source of realworld data
 * https://developer.ups.com
 * https://github.com/UPS-API
-* https://www.getstraightaway.com/ups
 
 ## Additional Examples
 * https://www.kaggle.com/competitions/grupo-bimbo-inventory-demand/data
@@ -41,3 +40,4 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * https://investors.ups.com/quarterly-earnings-and-financials/historical-data
 * https://joachimweise.github.io/post/2019-11-30-ups-orion/
 * https://sssagarsahoo.medium.com/big-data-analytics-at-ups-a-case-study-eb1e87be965e
+* https://www.getstraightaway.com/ups
