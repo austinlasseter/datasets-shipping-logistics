@@ -12,11 +12,15 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * https://developer.ups.com
 * https://github.com/UPS-API
 
-## Example Analyses
+## Examples of Final Projects
 * [Olist BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJlNWY1NGQtM2JjYi00Y2JjLTg1ZjQtYTE4ZTI1ZDAwZjVmIiwidCI6ImYzODExMmE3LWM5ZTktNDk2OC1hODMyLTE0YzhjN2QwZGY5NCIsImMiOjEwfQ%3D%3D)
+* [Video - Supply Chain Shipment Type Prediction](https://www.youtube.com/watch?v=oM4Wl2zbexU)
+
+## Example Analyses
 * [Defect Rates by Transportation Mode](https://www.kaggle.com/code/amirmotefaker/supply-chain-analysis#Defect-Rates-by-Transportation-Mode)
 * [Data Science project Ideas for Logistics domain](https://www.kaggle.com/discussions/general/393613)
 * [Supply Chain Shipment Price Data Analysis](https://www.kaggle.com/code/divyeshardeshana/supply-chain-shipment-price-data-analysis/notebook)
+* [Supply Chain Shipment Type Prediction](https://www.kaggle.com/code/gcdatkin/supply-chain-shipment-type-prediction#Results)
 
 ## Additional Examples
 * https://www.kaggle.com/datasets/skeller/us-supply-chain-information-for-covid19
