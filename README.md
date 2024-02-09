@@ -17,6 +17,7 @@ A repository of public datasets related to shipping and delivery with emphasis o
 ## Examples of Final Projects
 * [Olist BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJlNWY1NGQtM2JjYi00Y2JjLTg1ZjQtYTE4ZTI1ZDAwZjVmIiwidCI6ImYzODExMmE3LWM5ZTktNDk2OC1hODMyLTE0YzhjN2QwZGY5NCIsImMiOjEwfQ%3D%3D)
 * [Supply Chain Analysis using Python](https://thecleverprogrammer.com/2023/04/03/supply-chain-analysis-using-python/)
+* [Delivery Route Optimization](https://towardsdatascience.com/modern-route-optimization-with-python-fea87d34288b)
 * [Video - Supply Chain Shipment Type Prediction](https://www.youtube.com/watch?v=oM4Wl2zbexU)
 
 ## Example Analyses
