@@ -8,18 +8,19 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * https://www.kaggle.com/datasets/divyeshardeshana/supply-chain-shipment-pricing-data
 * [Fashion and Beauty Supply Chain Analysis](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis/data)
 * [DataCo Supply Chain for Big Data Analysis](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
-* https://www.kaggle.com/datasets/vitaliymalcev/russian-passenger-air-service-20072020
+* [Russian Air Cargo Dataset](https://www.kaggle.com/datasets/vitaliymalcev/russian-passenger-air-service-20072020)
 
 ## The UPS API - a great source of realworld data
 * https://developer.ups.com
 * https://github.com/UPS-API
 
 ## Examples of Final Projects
-* [Olist eCommerce Analysis and Dashboard](https://www.kaggle.com/code/philipclemente/olist-ecommerce-analysis-and-dashboard)
 * [Olist BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJlNWY1NGQtM2JjYi00Y2JjLTg1ZjQtYTE4ZTI1ZDAwZjVmIiwidCI6ImYzODExMmE3LWM5ZTktNDk2OC1hODMyLTE0YzhjN2QwZGY5NCIsImMiOjEwfQ%3D%3D)
+* [Supply Chain Analysis using Python](https://thecleverprogrammer.com/2023/04/03/supply-chain-analysis-using-python/)
 * [Video - Supply Chain Shipment Type Prediction](https://www.youtube.com/watch?v=oM4Wl2zbexU)
 
 ## Example Analyses
+* [Olist eCommerce Analysis and Dashboard](https://www.kaggle.com/code/philipclemente/olist-ecommerce-analysis-and-dashboard)
 * [Defect Rates by Transportation Mode](https://www.kaggle.com/code/amirmotefaker/supply-chain-analysis#Defect-Rates-by-Transportation-Mode)
 * [Data Science project Ideas for Logistics domain](https://www.kaggle.com/discussions/general/393613)
 * [Supply Chain Shipment Price Data Analysis](https://www.kaggle.com/code/divyeshardeshana/supply-chain-shipment-price-data-analysis/notebook)
