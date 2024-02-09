@@ -12,6 +12,10 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * https://developer.ups.com
 * https://github.com/UPS-API
 
+## Example Analyses
+* [Olist BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJlNWY1NGQtM2JjYi00Y2JjLTg1ZjQtYTE4ZTI1ZDAwZjVmIiwidCI6ImYzODExMmE3LWM5ZTktNDk2OC1hODMyLTE0YzhjN2QwZGY5NCIsImMiOjEwfQ%3D%3D)
+* [Defect Rates by Transportation Mode](https://www.kaggle.com/code/amirmotefaker/supply-chain-analysis#Defect-Rates-by-Transportation-Mode)
+
 ## Additional Examples
 * https://www.kaggle.com/competitions/grupo-bimbo-inventory-demand/data
 * https://www.kaggle.com/competitions/nyc-taxi-trip-duration
