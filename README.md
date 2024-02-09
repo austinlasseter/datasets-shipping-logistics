@@ -13,6 +13,7 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * https://github.com/UPS-API
 
 ## Examples of Final Projects
+* [Olist eCommerce Analysis and Dashboard](https://www.kaggle.com/code/philipclemente/olist-ecommerce-analysis-and-dashboard)
 * [Olist BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJlNWY1NGQtM2JjYi00Y2JjLTg1ZjQtYTE4ZTI1ZDAwZjVmIiwidCI6ImYzODExMmE3LWM5ZTktNDk2OC1hODMyLTE0YzhjN2QwZGY5NCIsImMiOjEwfQ%3D%3D)
 * [Video - Supply Chain Shipment Type Prediction](https://www.youtube.com/watch?v=oM4Wl2zbexU)
 
