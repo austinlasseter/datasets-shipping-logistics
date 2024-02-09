@@ -15,6 +15,7 @@ A repository of public datasets related to shipping and delivery with emphasis o
 ## Example Analyses
 * [Olist BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJlNWY1NGQtM2JjYi00Y2JjLTg1ZjQtYTE4ZTI1ZDAwZjVmIiwidCI6ImYzODExMmE3LWM5ZTktNDk2OC1hODMyLTE0YzhjN2QwZGY5NCIsImMiOjEwfQ%3D%3D)
 * [Defect Rates by Transportation Mode](https://www.kaggle.com/code/amirmotefaker/supply-chain-analysis#Defect-Rates-by-Transportation-Mode)
+* [Data Science project Ideas for Logistics domain](https://www.kaggle.com/discussions/general/393613)
 
 ## Additional Examples
 * https://www.kaggle.com/competitions/grupo-bimbo-inventory-demand/data
