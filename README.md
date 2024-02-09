@@ -39,6 +39,7 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * [TSP with Python’s mlrose package](https://towardsdatascience.com/solving-travelling-salesperson-problems-with-python-5de7e883d847)
 * [Youtube - Python solution - TSP European Cities](https://www.youtube.com/watch?v=pIvtY4voS9Q)
 * [Youtube intro](https://www.youtube.com/watch?v=smkZDejskTk) and [Python code](https://www.kindsonthegenius.com/data-science/solving-the-travelling-salesman-problem-tsp-with-python/)
+* [Datacamp interactive TSP solution](https://campus.datacamp.com/courses/supply-chain-analytics-in-python/modeling-in-pulp?ex=3)
 
 ## Additional Examples
 * https://www.kaggle.com/datasets/skeller/us-supply-chain-information-for-covid19
