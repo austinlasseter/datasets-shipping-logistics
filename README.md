@@ -5,7 +5,7 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * https://brunel.figshare.com/articles/dataset/Supply_Chain_Logistics_Problem_Dataset/7558679
 * https://www.kaggle.com/datasets/apoorvwatsky/supply-chain-shipment-pricing-data
 * https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-* https://www.kaggle.com/datasets/skeller/us-supply-chain-information-for-covid19
+* https://www.kaggle.com/datasets/divyeshardeshana/supply-chain-shipment-pricing-data
 * https://www.kaggle.com/datasets/vitaliymalcev/russian-passenger-air-service-20072020
 
 ## The UPS API - a great source of realworld data
@@ -16,8 +16,10 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * [Olist BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJlNWY1NGQtM2JjYi00Y2JjLTg1ZjQtYTE4ZTI1ZDAwZjVmIiwidCI6ImYzODExMmE3LWM5ZTktNDk2OC1hODMyLTE0YzhjN2QwZGY5NCIsImMiOjEwfQ%3D%3D)
 * [Defect Rates by Transportation Mode](https://www.kaggle.com/code/amirmotefaker/supply-chain-analysis#Defect-Rates-by-Transportation-Mode)
 * [Data Science project Ideas for Logistics domain](https://www.kaggle.com/discussions/general/393613)
+* [Supply Chain Shipment Price Data Analysis](https://www.kaggle.com/code/divyeshardeshana/supply-chain-shipment-price-data-analysis/notebook)
 
 ## Additional Examples
+* https://www.kaggle.com/datasets/skeller/us-supply-chain-information-for-covid19
 * https://www.kaggle.com/competitions/grupo-bimbo-inventory-demand/data
 * https://www.kaggle.com/competitions/nyc-taxi-trip-duration
 * https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
