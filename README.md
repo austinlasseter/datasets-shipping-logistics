@@ -28,7 +28,11 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * [Supply Chain Shipment Type Prediction](https://www.kaggle.com/code/gcdatkin/supply-chain-shipment-type-prediction#Results)
 * [Data Analysis- Supply Chain Optimization](https://www.kaggle.com/code/gelarerouzbahani/data-analysis-supply-chain-optimization)
 * [Shipment Duration prediction and Estimating Late Delivery Risk](https://www.kaggle.com/code/sukanthen/e-commerce-multi-output-models-project-cse07)
+
+## Route Optimization: The Traveling Salesman Problem
 * [Traveling Salesman Problem Implementation](https://www.geeksforgeeks.org/traveling-salesman-problem-tsp-implementation/)
+* [TSP - Great Britain - with Pandas and visualization](https://towardsdatascience.com/solving-geographic-travelling-salesman-problems-using-python-e57284b14cd7)
+* [TSP Python solution](https://www.guru99.com/travelling-salesman-problem.html)
 
 ## Additional Examples
 * https://www.kaggle.com/datasets/skeller/us-supply-chain-information-for-covid19
