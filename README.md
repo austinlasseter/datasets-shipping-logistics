@@ -25,6 +25,7 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * [Supply Chain Shipment Price Data Analysis](https://www.kaggle.com/code/divyeshardeshana/supply-chain-shipment-price-data-analysis/notebook)
 * [Supply Chain Shipment Type Prediction](https://www.kaggle.com/code/gcdatkin/supply-chain-shipment-type-prediction#Results)
 * [Data Analysis- Supply Chain Optimization](https://www.kaggle.com/code/gelarerouzbahani/data-analysis-supply-chain-optimization)
+* [Shipment Duration prediction and Estimating Late Delivery Risk](https://www.kaggle.com/code/sukanthen/e-commerce-multi-output-models-project-cse07)
 
 ## Additional Examples
 * https://www.kaggle.com/datasets/skeller/us-supply-chain-information-for-covid19
