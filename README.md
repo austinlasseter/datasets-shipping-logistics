@@ -1,4 +1,4 @@
-# Shipping & Delivery Datasets
+# Capstone Project Examples - Analytics, Prediction, & Optimization for Shipping & Delivery Datasets
 A repository of public datasets related to shipping and delivery with emphasis on route optimization.
 
 ## Datasets on route optimization and delivery logistics
