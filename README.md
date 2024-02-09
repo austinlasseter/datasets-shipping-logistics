@@ -6,6 +6,7 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * https://www.kaggle.com/datasets/apoorvwatsky/supply-chain-shipment-pricing-data
 * https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 * https://www.kaggle.com/datasets/divyeshardeshana/supply-chain-shipment-pricing-data
+* [Fashion and Beauty Supply Chain Analysis](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis/data)
 * https://www.kaggle.com/datasets/vitaliymalcev/russian-passenger-air-service-20072020
 
 ## The UPS API - a great source of realworld data
