@@ -31,6 +31,7 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * [Shipment Duration prediction and Estimating Late Delivery Risk](https://www.kaggle.com/code/sukanthen/e-commerce-multi-output-models-project-cse07)
 
 ## Route Optimization: The Traveling Salesman Problem
+* [TSP Overview & 14 Solutions](https://www.linkedin.com/pulse/traveling-salesman-problem-14-different-solutions-sandeep-kella/)
 * [Traveling Salesman Problem Implementation](https://www.geeksforgeeks.org/traveling-salesman-problem-tsp-implementation/)
 * [TSP - Great Britain - with Pandas and visualization](https://towardsdatascience.com/solving-geographic-travelling-salesman-problems-using-python-e57284b14cd7)
 * [TSP Python solution](https://www.guru99.com/travelling-salesman-problem.html)
