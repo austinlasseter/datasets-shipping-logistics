@@ -2,13 +2,14 @@
 A repository of public datasets related to shipping and delivery with emphasis on route optimization.
 
 ## Datasets on route optimization and delivery logistics
-* https://brunel.figshare.com/articles/dataset/Supply_Chain_Logistics_Problem_Dataset/7558679
-* https://www.kaggle.com/datasets/apoorvwatsky/supply-chain-shipment-pricing-data
-* https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-* https://www.kaggle.com/datasets/divyeshardeshana/supply-chain-shipment-pricing-data
+* [Global Supply Chain Logistics Problem Dataset](https://brunel.figshare.com/articles/dataset/Supply_Chain_Logistics_Problem_Dataset/7558679)
+* [Supply Chain Shipment Pricing Data](https://www.kaggle.com/datasets/apoorvwatsky/supply-chain-shipment-pricing-data)
+* [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+* [Supply Chain Shipment Pricing Data](https://www.kaggle.com/datasets/divyeshardeshana/supply-chain-shipment-pricing-data)
 * [Fashion and Beauty Supply Chain Analysis](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis/data)
 * [DataCo Supply Chain for Big Data Analysis](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
 * [Russian Air Cargo Dataset](https://www.kaggle.com/datasets/vitaliymalcev/russian-passenger-air-service-20072020)
+* [Starbucks Locations Worldwide](https://www.kaggle.com/datasets/starbucks/store-locations)
 
 ## The UPS API - a great source of realworld data
 * https://developer.ups.com
