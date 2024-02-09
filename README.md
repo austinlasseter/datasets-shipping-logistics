@@ -26,7 +26,6 @@ A repository of public datasets related to shipping and delivery with emphasis o
 ## Additional Examples
 * https://www.kaggle.com/datasets/skeller/us-supply-chain-information-for-covid19
 * https://www.kaggle.com/competitions/grupo-bimbo-inventory-demand/data
-* https://www.kaggle.com/competitions/nyc-taxi-trip-duration
 * https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 * https://www.kaggle.com/datasets/aleemaparakatta/shipments
 * https://www.kaggle.com/datasets/census/manufacturers'-inventory-to-shipments,orders-ratio
@@ -45,6 +44,7 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * https://www.kaggle.com/datasets/pingpang/lastmiledeliverytimes
 * https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data
 * https://www.kaggle.com/competitions/nyc-taxi-trip-duration
+* https://www.kaggle.com/code/divyeshardeshana/supply-chain-shipment-price-data-analysis#Shipment-Mode-and-Pack-Price-in-Bar-Plot-Graph
 
 ## Other UPS datasets, articles about UPS data
 * https://shipscience.com/understanding-the-database-of-ups-worldship/
