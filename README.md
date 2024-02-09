@@ -33,6 +33,7 @@ A repository of public datasets related to shipping and delivery with emphasis o
 * [Traveling Salesman Problem Implementation](https://www.geeksforgeeks.org/traveling-salesman-problem-tsp-implementation/)
 * [TSP - Great Britain - with Pandas and visualization](https://towardsdatascience.com/solving-geographic-travelling-salesman-problems-using-python-e57284b14cd7)
 * [TSP Python solution](https://www.guru99.com/travelling-salesman-problem.html)
+* [TSP with Python’s mlrose package](https://towardsdatascience.com/solving-travelling-salesperson-problems-with-python-5de7e883d847)
 
 ## Additional Examples
 * https://www.kaggle.com/datasets/skeller/us-supply-chain-information-for-covid19
