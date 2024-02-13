@@ -2,6 +2,7 @@
 A repository of public datasets related to shipping and delivery with emphasis on route optimization.
 
 ## Datasets on route optimization and delivery logistics
+* [Amazon 'Last Mile' Delivery Optimization](https://registry.opendata.aws/amazon-last-mile-challenges/)
 * [Global Supply Chain Logistics Problem Dataset](https://brunel.figshare.com/articles/dataset/Supply_Chain_Logistics_Problem_Dataset/7558679)
 * [Supply Chain Shipment Pricing Data](https://www.kaggle.com/datasets/apoorvwatsky/supply-chain-shipment-pricing-data)
 * [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
